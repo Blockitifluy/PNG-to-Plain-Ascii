@@ -3,7 +3,7 @@ from tkinter import filedialog
 
 from os import path as osPath
 
-import PNGApp
+import AsciiApp as PNGApp
 
 CurrentImage = None
 
